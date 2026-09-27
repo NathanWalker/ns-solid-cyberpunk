@@ -7,6 +7,8 @@ four intents and a hold-to-speak orb; everything else is output.
 
 Exploring futuristic UI's.
 
+https://github.com/user-attachments/assets/6a771209-21ff-4331-a032-ef60d978773c
+
 ## Run
 
 ```sh
