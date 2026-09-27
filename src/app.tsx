@@ -11,7 +11,11 @@ declare module 'solid-navigation' {
 
 const App = () => {
   return (
-    <StackRouter initialRouteName="Home">
+    <StackRouter
+      initialRouteName="Home"
+      defaultRouteOptions={{ noHeader: true }}
+      useTopMostFrame={true}
+    >
       <Route name="Home" component={Home} />
     </StackRouter>
   )

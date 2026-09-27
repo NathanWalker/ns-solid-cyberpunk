@@ -1,11 +1,9 @@
+@import "./hud.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.ns-light Page {
-  background-color: #edf1f9;
-}
-
-.ns-dark Page {
-  background-color: #1b1f28;
+Page, Frame {
+  background-color: #04070d;
 }
